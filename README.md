@@ -1,2 +1,1 @@
-# BlackJackGame-w-Python
-i tried make black jack game automated dealer w python 
+# Proyek Analisis Data: E-Commerce Public Dataset
